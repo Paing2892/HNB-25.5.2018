@@ -1,0 +1,17 @@
+#header ul{
+	Margin:Opx;
+	padding:Opx;
+	list-style:none;
+}
+#header li{
+	float:left;
+	margin:Opx;
+	padding:Opx;
+}
+#header li a{
+	display:block;
+	width:150px;
+	background-color: pink;
+	margin-right:5px;
+	text-align: center;
+}
